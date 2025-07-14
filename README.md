@@ -161,22 +161,6 @@ This is a simple **Python Quiz Game** where the user answers a set of questions 
 1. Clone this repository or download the code.
 2. Open the terminal inside the project folder.
 3. Run the script using:
-   ```
-   python quiz_game.py
-   ```
-4. Answer the questions when prompted.
-5. View your final score after answering all questions.
 
-## Example Output
-```
-What is the capital of India? delhi
-correct!
-What is 5+7? 12
-correct!
-What planet is known as the red planet? mars
-correct!
-What is the chemical symbol of water? h2o
-correct!
-Final score is 4/4
 ---
 JANHAVI MISHRA.
