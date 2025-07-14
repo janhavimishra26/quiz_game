@@ -118,7 +118,7 @@ This is a simple **Python Contact Book** that allows users to store, view, searc
 4. Follow the on-screen menu to use the Contact Book.
 
 ## Example Output
-```
+
 1.Add contact
 2.View contact
 3.Search contact
