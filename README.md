@@ -177,7 +177,5 @@ correct!
 What is the chemical symbol of water? h2o
 correct!
 Final score is 4/4
-
 ```
-
- Janhavi Mishra
+JANHAVI MISHRA.
