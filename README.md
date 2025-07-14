@@ -97,6 +97,55 @@ Too high! Try again.
 Enter a number between 1 and 100: 63
 Congratulations! You guessed it right.
 ---
+# Contact Book 📒
+
+This is a simple **Python Contact Book** that allows users to store, view, search, and delete contacts.
+
+## Features
+- Add a new contact with name and phone number.
+- View all saved contacts.
+- Search for a contact by name.
+- Delete a contact by name.
+- Exit the application anytime.
+
+## How to Run
+1. Clone this repository or download the code.
+2. Open the terminal inside the project folder.
+3. Run the script using:
+   ```
+   python contact_book.py
+   ```
+4. Follow the on-screen menu to use the Contact Book.
+
+## Example Output
+```
+1.Add contact
+2.View contact
+3.Search contact
+4.Delete contact
+5.Exit contact
+Enter your choice (1-5): 1
+Enter your contact name: Janhavi
+Enter your contact phone number: 9876543210
+Janhavi and 9876543210 added successfully
+
+1.Add contact
+2.View contact
+3.Search contact
+4.Delete contact
+5.Exit contact
+Enter your choice (1-5): 3
+Enter the name to be searched: Janhavi
+Janhavi and 9876543210
+
+1.Add contact
+2.View contact
+3.Search contact
+4.Delete contact
+5.Exit contact
+Enter your choice (1-5): 5
+Exiting the contact book... Goodbye!
+---
 # Quiz Game 📝
 
 This is a simple **Python Quiz Game** where the user answers a set of questions and gets scored based on correct answers.
