@@ -146,6 +146,7 @@ Janhavi and 9876543210
 Enter your choice (1-5): 5
 Exiting the contact book... Goodbye!
 ---
+
 # Quiz Game 📝
 
 This is a simple **Python Quiz Game** where the user answers a set of questions and gets scored based on correct answers.
@@ -177,5 +178,5 @@ correct!
 What is the chemical symbol of water? h2o
 correct!
 Final score is 4/4
-```
+---
 JANHAVI MISHRA.
